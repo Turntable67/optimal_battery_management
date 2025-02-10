@@ -1,0 +1,9 @@
+{
+    "domain": "optimal_battery_management",
+    "name": "Optimal Battery Management",
+    "version": "1.0.0",
+    "documentation": "https://your.documentation.url",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@your_github_username"]
+}
